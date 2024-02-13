@@ -1,1 +1,3 @@
 Archivo1 creado desde el repositorio LOCAL, practicando git push.
+
+Modificamos este archivo que no tenemos en la otra rama.
