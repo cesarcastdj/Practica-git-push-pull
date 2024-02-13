@@ -1,1 +1,3 @@
 Archivo creado en rama2.
+
+console.log("Que viva venezuela en esa mrd caballero!"); archivo temporal con git stash.
