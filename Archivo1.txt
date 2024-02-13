@@ -1,1 +1,1 @@
-Archivo1 creado, practicando git push
+Archivo1 creado desde el repositorio LOCAL, practicando git push.
